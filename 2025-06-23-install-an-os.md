@@ -4,6 +4,6 @@ This is a weekly task to install an OS into the computer.
 
 ## Possible candidates
 
-- Arch Linux
+- Arch Linux (choosen)
 - Gentoo Linux
 - Void Linux
